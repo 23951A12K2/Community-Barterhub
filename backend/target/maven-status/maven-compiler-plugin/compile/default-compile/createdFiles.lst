@@ -1,0 +1,16 @@
+com\barter\controller\TradeController.class
+com\barter\model\Trade.class
+com\barter\repository\UserRepository.class
+com\barter\service\UserService.class
+com\barter\CommunityBarterSystemApplication.class
+com\barter\service\ItemService.class
+com\barter\service\TradeService.class
+com\barter\SecurityConfig.class
+com\barter\controller\UserController.class
+com\db\DBConnect.class
+com\barter\community\controller\ImageUploadController.class
+com\barter\model\Item.class
+com\barter\controller\ItemController.class
+com\barter\model\User.class
+com\barter\repository\ItemRepository.class
+com\barter\repository\TradeRepository.class
